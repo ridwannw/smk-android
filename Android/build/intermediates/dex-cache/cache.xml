@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f4a0294f0b39a38c6ae174f1fbe0b7405044bcf">
+        <dex dex="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_37f07ab66f5d2fb7d7d5296a7530ff81955fa149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9815c2a06a3b57f0e87aa5948ac5c90e5511aaf0">
+        <dex dex="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f65e427b0824d4b87be62623a5b4f8f2cd8d72b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_580c1f8e450a54bb63f3ba327f99faa7769c86bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_5221a38d89c1868d3ce70e91790edecfe7e62c9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_bcf6e4e658f4d29b71a99580c426b124107faae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_8f643335422112a12ef8ce9459549edda7b5d5b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_7b035f6377c5f50fc5ae3fa21ef3edaee602feb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_3cd84985cd12b5124b5779531a55ebbc9e31c7e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_ac211df6cceb9db3ce172310c2229a54094b242a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\SMK\Aplikasi Android\ujikom-2017\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_93982c2fa34f1872f929f8617e7fa76ccd4cd50d\classes.dex" />
+    </item>
+
+</items>
